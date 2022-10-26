@@ -12,6 +12,6 @@ Nian Liu
 
 ## Data App
 
-[Streamlit Demo](https://harrywang-world-cities-app-cities-9k1r4v.streamlitapp.com/)
+[Streamlit Demo](https://nianliu2002-california-houses-app-housing-968rri.streamlitapp.com/)
 
 
