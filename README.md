@@ -9,6 +9,8 @@ Nian Liu
 
 [California Housing Dataset](https://www.kaggle.com/datasets/harrywang/housing)
 
+## PPT
+[presentation slides](sample-team-presentation.pptx)
 
 ## Data App
 
